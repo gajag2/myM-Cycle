@@ -5,9 +5,3 @@
 3 - Usage - Please select your menstruation days every month.
 
 
-## Welcome to Support page for myM-Cycle app
-
-
-### Support or Contact
-
-Having trouble with app? Please contact as on email jasmina.zoran@icloud.com.
